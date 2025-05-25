@@ -1,0 +1,22 @@
+<tfg>
+    <title>TFG hírek</title>
+    <link><![CDATA[https://github.com/SerwenyiW/MesterMC-eJS-Kliens]]></link>
+    <item>
+        <title>Discord</title>
+        <link>
+<![CDATA[https://discord.gg/kSDG9mQs6R</link>]]>
+        <intro>TFG Discord!</intro>
+        <content>Csatlakozz a TFG Discord szerverhez!</content>
+        <img>
+          <![CDATA[
+            https://widescreen.hu/wp-content/uploads/2023/05/ws_discord-logo_230513-081736.webp
+          ]]></img>
+    </item>
+    <item>
+        <title>Instagram</title>
+        <link><![CDATA[https://instagram.com/@tfg_dok]]></link>
+        <intro>Instagram</intro>
+        <content>Kövesd be a tfg_dok instagram fiókot, illetve ha van valami ötleted a klienshez, akkor itt várom az ötleted: ggergogg</content>
+        <img><![CDATA[https://cdn.wccftech.com/wp-content/uploads/2022/03/Instagram-Feed-in-Chronological-Order-1030x568.jpg]]></img>
+    </item>
+</tfg>
