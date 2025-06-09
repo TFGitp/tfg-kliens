@@ -8,4 +8,22 @@
         <content>Jelenleg a kliens azért néz ki úgy, mint a MesterMC, mert ez egy régi projektem volt arra, és néhány nap alatt kellett elkészülnie, hogy a TFG mod/világot le tudja tölteni. Hamarosan egy modernebb kinézetet kap!</content>
         <img><![CDATA[https://8219084876.cbaul-cdnwnd.com/63d20e91c760280e67da7e7eb69b8fef/system_preview_detail_200000000-05659065e5-public/MesterMc.png]]></img>
     </item>
+    <item>
+        <title>Discord</title>
+        <link>
+<![CDATA[https://discord.gg/kSDG9mQs6R]]></link>
+        <intro>TFG Discord!</intro>
+        <content>Csatlakozz a TFG Discord szerverhez! https://discord.gg/kSDG9mQs6R</content>
+        <img>
+          <![CDATA[
+            https://blog.silverpc.hu/wp-content/uploads/2024/10/649a722d2922c16b17fef295_6402942dbef5384072addc0d_BackupBlogHeaders_Batch2Artboard-7-1536x614.png
+          ]]></img>
+    </item>
+    <item>
+        <title>Instagram</title>
+        <link><![CDATA[https://instagram.com/tfg_dok]]></link>
+        <intro>Instagram</intro>
+        <content>Kövesd be a tfg_dok instagram fiókot, illetve, ha van valamilyen ötleted a klienshez, akkor a Discord szerveren leírhatod!</content>
+        <img><![CDATA[https://cdn.wccftech.com/wp-content/uploads/2022/03/Instagram-Feed-in-Chronological-Order-1030x568.jpg]]></img>
+    </item>
 </tfg>
