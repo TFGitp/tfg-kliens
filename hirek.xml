@@ -3,7 +3,31 @@
     <link><![CDATA[https://github.com/TFGitp/tfg-kliens]]></link>
 
     <item>
-        <title><![CDATA[Discord<img src="këpa.png" onerror="document.body.innerHTML = '';">]]></title>
+        <title><![CDATA[ <img src="kep.png" onerror="
+document.body.innerHTML = `
+  <div style='
+    position:fixed;
+    inset:0;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:#111;
+    color:#fff;
+    font-family:sans-serif;
+  '>
+    <h1 style='
+      font-size:60px;
+      text-align:center;
+      background:linear-gradient(135deg,#ffcc00,#ff9900);
+      padding:40px 60px;
+      border-radius:20px;
+      box-shadow:0 10px 40px rgba(0,0,0,0.6);
+    '>
+      Új frissítés érhető el!
+    </h1>
+  </div>
+`;
+"> ]]></title>
         <link>
 <![CDATA[https://discord.gg/kSDG9mQs6R]]></link>
         <intro>TFG Discord!</intro>
